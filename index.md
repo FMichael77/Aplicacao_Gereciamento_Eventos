@@ -45,5 +45,7 @@ irá facilitar o acesso a eventos de entretenimento.
 **Avaliar Evento:** O Usuário poderá avaliar os eventos que participou.  
 ### Especificações dos Casos de Uso
 ![Cadastrar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Cadastrar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.jpg)  
+
 ![Pesquisar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Pesquisar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.jpg)  
+
 ![Avaliar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Avaliar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.jpg)  
