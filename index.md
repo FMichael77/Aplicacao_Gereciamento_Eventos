@@ -41,8 +41,8 @@ irá facilitar o acesso a eventos de entretenimento.
 **Validar Evento:** O sistema deve ser capaz de dizer se o evento cadastrado é válido ou não(data inexiste, local indefinido e etc).  
 **Pesquisar Evento:** O sistema deve permitir que o usuário externo possa pesquisar eventos.  
 **Consultar Evento:** O sistema deve permitir que o usuário externo possa mostrar os eventos próximos.  
-**Ordenar Evento:** O Sistema deve ser capaz de ordenar os eventos de acordo com suas datas.  
-**Avaliar Evento:** O Usuário poderá avaliar os eventos que participou.  
+**Ordenar Evento:** O sistema deve ser capaz de ordenar os eventos de acordo com suas datas.  
+**Avaliar Evento:** O usuário poderá avaliar os eventos que participou.  
 ### Especificações dos Casos de Uso
 ![Cadastrar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Cadastrar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.jpg)  
 
