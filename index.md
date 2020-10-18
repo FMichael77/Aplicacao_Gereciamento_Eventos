@@ -53,4 +53,9 @@ irá facilitar o acesso a eventos de entretenimento.
 ![Validar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Validar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 ![Validar EventoP2](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Validar%20Evento%20P2%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 
-![Fazer_Reserva](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Fazer%20Reserva%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
+![Fazer_Reserva](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Fazer%20Reserva%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+
+![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Marcar%20Presen%C3%A7a%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Marcar%20Presen%C3%A7a%202%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+
+![Convidar](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Convidar%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
