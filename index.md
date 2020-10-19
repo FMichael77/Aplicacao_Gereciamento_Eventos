@@ -34,7 +34,7 @@ irá facilitar o acesso a eventos de entretenimento.
 - Eventos próximos ao usuário
 
 ### Diagrama de Casos de Uso
-![UseCase Diagram - App. Gerenc. Eventos(https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/af274df13c602db723f55307cf5861b1a0d6dd14/Diagrama%20de%20Casos%20de%20Uso%20-%20App%20de%20Gerenciamneto%20de%20Eventos.png)  
+![UseCase Diagram - App. Gerenc. Eventos (https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/af274df13c602db723f55307cf5861b1a0d6dd14/Diagrama%20de%20Casos%20de%20Uso%20-%20App%20de%20Gerenciamneto%20de%20Eventos.png)  
 **Criar Conta:** O sistema deve permitir que o usuário possa ciar uma conta no sistema.  
 **Validar Conta:** O sistema deve ser capaz de dizer se a conta cadastrada é válida ou não(os dados informados pelo usuário são válidos).  
 **Cadastrar Evento:** O sistema deve permitir que o usuário cadastre um evento, como por exemplo uma festa.  
