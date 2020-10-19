@@ -43,6 +43,9 @@ irá facilitar o acesso a eventos de entretenimento.
 **Consultar Evento:** O sistema deve permitir que o usuário externo possa mostrar os eventos próximos.  
 **Ordenar Evento:** O sistema deve ser capaz de ordenar os eventos de acordo com suas datas.  
 **Avaliar Evento:** O usuário poderá avaliar os eventos que participou.  
+**Fazer Reserva:** O Sistema deve permitir que o Usuário possa fazer uma reserva em um evento de sua escolha.  
+**Marcar Presença:** O Sistema permite que o usuário possa marcar como interesse eventos em que deseja ir.    
+
 ### Especificações dos Casos de Uso  
 ![Cadastrar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Cadastrar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 
