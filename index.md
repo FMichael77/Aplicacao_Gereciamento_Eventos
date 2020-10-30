@@ -44,7 +44,7 @@ Pretende-se, com este projeto, desenvolver uma aplicação web que facilite o ac
 oportunidade para socialização e entretenimento. Os resultados do projeto serão disseminados através de redes sociais e de feedbacks dos próprios usuários.  
 
 ### Diagrama de Casos de Uso
-![UseCase Diagram - App. Gerenc. Eventos ](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/af274df13c602db723f55307cf5861b1a0d6dd14/Diagrama%20de%20Casos%20de%20Uso%20-%20App%20de%20Gerenciamneto%20de%20Eventos.png)  
+![UseCase Diagram - App. Gerenc. Eventos ](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Diagrama%20de%20Casos%20de%20Uso%20-%20App%20de%20Gerenciamneto%20de%20Eventos.png)  
 **Criar Conta:** O sistema deve permitir que o usuário possa ciar uma conta no sistema.  
 **Validar Conta:** O sistema deve ser capaz de dizer se a conta cadastrada é válida ou não(os dados informados pelo usuário são válidos).  
 **Cadastrar Evento:** O sistema deve permitir que o usuário cadastre um evento, como por exemplo uma festa.  
@@ -57,20 +57,20 @@ oportunidade para socialização e entretenimento. Os resultados do projeto ser�
 **Marcar Presença:** O Sistema permite que o usuário possa marcar como interesse eventos em que deseja ir.    
 
 ### Especificações dos Casos de Uso  
-![Cadastrar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Cadastrar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
+![Cadastrar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Cadastrar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 
-![Pesquisar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Pesquisar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
+![Pesquisar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Pesquisar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 
-![Avaliar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Avaliar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Avaliar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Avaliar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
 
-![Validar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Validar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
-![Validar EventoP2](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Validar%20Evento%20P2%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
+![Validar Evento](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Validar%20Evento%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
+![Validar EventoP2](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Validar%20Evento%20P2%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png)  
 
-![Fazer_Reserva](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Fazer%20Reserva%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Fazer_Reserva](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Fazer%20Reserva%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
 
-![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Marcar%20Presen%C3%A7a%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
-![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Marcar%20Presen%C3%A7a%202%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Marcar%20Presen%C3%A7a%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Marca_Presenca](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Marcar%20Presen%C3%A7a%202%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
 
-![Convidar](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/Convidar%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
+![Convidar](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Convidar%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
 ### Criação de protótipos  
 **Acesse através do link:** [Protótipo - App de Gerenciamento de Eventos](https://www.figma.com/proto/fnBYM8V6Z21x0iGV8HX7EQ/App-Onde-%C3%A9-Hoje?node-id=4%3A17&viewport=-202%2C-381%2C0.5704072713851929&scaling=min-zoom).
