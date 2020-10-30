@@ -73,4 +73,4 @@ oportunidade para socialização e entretenimento. Os resultados do projeto ser�
 
 ![Convidar](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/img/Convidar%20-%20Especifica%C3%A7%C3%B5es%20dos%20Casos%20de%20Uso.png) 
 ### Criação de protótipos  
-**Acesse através do link:** [Protótipo - App de Gerenciamento de Eventos](https://www.figma.com/proto/fnBYM8V6Z21x0iGV8HX7EQ/App-Onde-%C3%A9-Hoje?node-id=4%3A17&viewport=-202%2C-381%2C0.5704072713851929&scaling=min-zoom).
+**Acesse através do link:** [Protótipo - App de Gerenciamento de Eventos](https://www.figma.com/proto/fnBYM8V6Z21x0iGV8HX7EQ/App-Onde-%C3%A9-Hoje?node-id=4%3A17&viewport=-202%2C-381%2C0.5704072713851929&scaling=min-zoom)(Abrir no navegador Firefox).
