@@ -6,7 +6,7 @@
 Este projeto apresenta a experiência de desenvolvimento de uma aplicação web voltada para organização e participação de eventos de entretenimento. Pretendemos realizar a criação desta aplicação através do uso da metodologia Scrum para gerenciamento e organização, gerando valor por meio de entregas contínuas de software funcionando. Buscamos implementar uma aplicação que agrade o público-alvo e facilite sua vida.
 
 ### Justificativa
-A inexistência de aplicações mobile na região a respeito da organização e participação de eventos de entretenimento, viabilizou a elaboração de um projeto de software no tema. Em 29 de Abril de 2019 o Brasil possuía mais de 230 milhões de smartphones em uso. E a 30° Pesquisa Anual de Administração e Uso de Tecnologia da Informação nas Empresas, realizada pela Fundação Getúlio Vargas de São Paulo (FGV-SP) revela que ao fim de 2019 o país tinha mais de 420 milhões de aparelhos digitais ativos, incluindo computadores, notebooks, smartphones e tablets.  
+A inexistência de aplicações web na região a respeito da organização e participação de eventos de entretenimento, viabilizou a elaboração de um projeto de software no tema. Em 29 de Abril de 2019 o Brasil possuía mais de 230 milhões de smartphones em uso. E a 30° Pesquisa Anual de Administração e Uso de Tecnologia da Informação nas Empresas, realizada pela Fundação Getúlio Vargas de São Paulo (FGV-SP) revela que ao fim de 2019 o país tinha mais de 420 milhões de aparelhos digitais ativos, incluindo computadores, notebooks, smartphones e tablets.  
 Os eventos de entretenimento em geral são vistos como uma forma de beneficiar diversos aspectos como:  
 - A melhoria do estado emocional.
 - Promove o bem-estar.
@@ -16,7 +16,7 @@ Os eventos de entretenimento em geral são vistos como uma forma de beneficiar d
 Neste contexto, o projeto propõe o desenvolvimento de uma aplicação web que irá facilitar o acesso a eventos de entretenimento. 
 
 ### Objetivo Geral
-Desenvolver uma aplicação mobile para facilitar o acesso a eventos de entretenimento em geral, aplicando os conhecimento adquiridos, até aqui, do curso de
+Desenvolver uma aplicação web para facilitar o acesso a eventos de entretenimento em geral, aplicando os conhecimento adquiridos, até aqui, do curso de
 Análise e Desenvolvimento de Sistemas, e tornar a aplicação acessível à comunidade.  
 
 ### Objetivos Específicos
@@ -40,7 +40,7 @@ projeto.
 O projeto contará com relatórios mensais onde serão detalhados todas as atividades realizadas durante esse período.  
 
 ### Resultados Esperados e Disseminação dos Resultados
-Pretende-se, com este projeto, desenvolver uma aplicação mobile que facilite o acesso das pessoas a eventos diversos e agrade o público-alvo, além de conceber
+Pretende-se, com este projeto, desenvolver uma aplicação web que facilite o acesso das pessoas a eventos diversos e agrade o público-alvo, além de conceber
 oportunidade para socialização e entretenimento. Os resultados do projeto serão disseminados através de redes sociais e de feedbacks dos próprios usuários.  
 
 ### Diagrama de Casos de Uso
